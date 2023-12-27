@@ -76,6 +76,11 @@
     height: auto;
     border-radius: 5px;
   }
+
+  .profile-picture {
+    width: 300px;
+    height: auto; 
+  }
   
   footer {
     background-color: #333;
